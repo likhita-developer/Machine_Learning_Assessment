@@ -1,0 +1,4 @@
+Model,Validation R2 Score
+Linear Regression,-0.018
+Ridge,-0.018
+Lasso,-0.018
